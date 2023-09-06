@@ -1,4 +1,4 @@
-![](https://github-stats-alpha.vercel.app/api?username=rahuldasgupta)
+![](https://github-stats-alpha.vercel.app/api?username=rahuldasgupta&cc=fff&tc=222&ic=2f80ed&bc=D8D8D8)
 
 
 ## 🌐 Socials:
